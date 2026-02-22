@@ -1,0 +1,15 @@
+{
+  "name": "videoget",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "myane234",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^24.37.5"
+  }
+}
