@@ -73,6 +73,9 @@ async function main() {
         // print full API response
         console.log(JSON.stringify(data, null, 2));
 
+        console.log(data.resolvedVideoUrl);
+        console.log(data.title);
+
     }
     catch (err) {
 
